@@ -14,4 +14,4 @@ def Dog
 end
 
 
-Dog = Dog.new
+dog = Dog.new
