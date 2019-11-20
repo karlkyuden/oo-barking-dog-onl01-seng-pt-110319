@@ -9,7 +9,9 @@ class Dog
     @thisDog
   end
   
-  
+  def bark
+    puts "woof!"
+  end
   
   
 end
