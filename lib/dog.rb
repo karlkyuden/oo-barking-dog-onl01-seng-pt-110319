@@ -4,6 +4,10 @@ def Dog
     @thisDog = dog_name
   end
   
+  def name
+    @thisDog
+  end
+  
   
   
   
